@@ -1,3 +1,2 @@
 # SistemiOperativi
-Progetto universitario @unito realizzato in C
-Gestione della concorrenza di processi
+Progetto universitario @unito realizzato in C relativo alla gestione della concorrenza tra processi
